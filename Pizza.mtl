@@ -1,0 +1,25 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl Material.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.259798 0.259798 0.259798
+Ks 0.508333 0.508333 0.508333
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl pizza
+Ns 35.911752
+Ka 1.000000 1.000000 1.000000
+Kd 0.615686 1.000000 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.140017 normals.jpg
+map_Kd pizza-no-base-diffuse.jpg
+map_Ks pizza-gloss.jpg
