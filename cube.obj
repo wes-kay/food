@@ -1,6 +1,6 @@
 # Blender v2.80 (sub 75) OBJ File: ''
 # www.blender.org
-mtllib cube,obj.mtl
+mtllib cube.mtl
 o Cube_Cube.001
 v 0.689994 -1.000000 -0.689994
 v 0.689994 -0.689994 -1.000000
@@ -105,7 +105,7 @@ vn -0.7071 0.0000 -0.7071
 vn 0.0000 -0.7071 -0.7071
 vn 0.0000 0.7071 -0.7071
 vn 0.0000 -1.0000 0.0000
-usemtl Material.002
+usemtl Cube_Material
 s off
 f 15/1/1 17/2/1 4/3/1 2/4/1
 f 21/5/2 23/6/2 18/7/2 14/8/2
