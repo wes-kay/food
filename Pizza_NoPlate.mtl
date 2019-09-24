@@ -1,0 +1,15 @@
+# Blender MTL File: 'AssetFile.blend'
+# Material Count: 1
+
+newmtl Pizza
+Ns 185.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.850000 0.850000 0.850000
+Ks 0.600000 0.600000 0.600000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.800000 normals.jpg
+map_Kd pizza-no-base-diffuse.jpg
+map_Ks pizza-gloss.jpg
