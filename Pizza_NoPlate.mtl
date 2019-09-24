@@ -10,6 +10,6 @@ Ke 0.0 0.0 0.0
 Ni 1.450000
 d 1.000000
 illum 3
-map_Bump -bm 0.800000 normals.jpg
+map_Bump normals.jpg
 map_Kd pizza-no-base-diffuse.jpg
 map_Ks pizza-gloss.jpg
